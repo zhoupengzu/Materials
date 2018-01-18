@@ -1,4 +1,5 @@
 # Materials
+查看iPhone编号：https://www.theiphonewiki.com/wiki/Models
 https://leetcode.com. 这是一个习题库（LeetCode）
 https://www.codewars.com/dashboard 练手的（Codewars）
 https://www.codingame.com/home 用游戏代替联系（CodinGame）
