@@ -9,3 +9,6 @@ git使用教程：https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248
 ignore使用：https://github.com/github/gitignore
 
 IntelliJ IDEA激活：http://idea.lanyus.com/
+
+######制作U盘命令：
+>sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/Sierra --applicationpath /Applications/Install\ macOS\ High\ Sierra.app --nointeraction
